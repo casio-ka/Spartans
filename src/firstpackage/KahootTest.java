@@ -9,6 +9,7 @@ public class KahootTest {
         System.out.println("Remus is here");
         System.out.println("Wainaina is here");
         System.out.println("Hi, this is Jika");
+        System.out.println("cool");
 
     }
   
