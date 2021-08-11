@@ -1,6 +1,9 @@
 package firstpackage;
 
 public class KahootTest {
+
+    public static void main(String[] args) {
+        System.out.println("Wainaina is here");
  Ahmed11
     //do the first work
 
@@ -23,8 +26,6 @@ public class KahootTest {
     public KahootTest(String name, int age) {
         this.name = name;
         this.age = age;
-
-
 
     }
 }
