@@ -2,9 +2,11 @@ package firstpackage;
 
 public class KahootTest {
 
+
     public static void main(String[] args) {
 
         System.out.println(" Altynai here too");
+        System.out.println("Remus is here");
         System.out.println("Wainaina is here");
         System.out.println("Hi, this is Jika");
 
@@ -27,5 +29,5 @@ public class KahootTest {
         this.name = name;
         this.age = age;
 
-    }
+}
 }
