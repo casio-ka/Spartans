@@ -13,6 +13,7 @@ public class KahootTest {
         System.out.println("Hi, this is Jika");
         System.out.println("cool");
         System.out.println("Asel is here");
+        System.out.println("Asel still in the house");
    
 
 
