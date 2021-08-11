@@ -5,13 +5,13 @@ public class KahootTest {
 
     public static void main(String[] args) {
 
+        System.out.println(" Altynai here too");
         System.out.println("Remus is here");
+        System.out.println("Wainaina is here");
+        System.out.println("Hi, this is Jika");
 
     }
-
-// Ahmed11
-    //do the first work
-
+  
     public String name;
     public int age;
     public static double money;
@@ -28,6 +28,6 @@ public class KahootTest {
     public KahootTest(String name, int age) {
         this.name = name;
         this.age = age;
-    }
 
+}
 }
